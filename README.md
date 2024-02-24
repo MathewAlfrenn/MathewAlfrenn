@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋Hi, I'm Mathew Al-Frenn <br>👀 I’m interested in web and app development<br>🚀 I'd like to learn more about security and machine learning<br>🌱 I’m currently learning software engineering at the university of Ottawa<br>📫 How to reach me : malfr102@uottawa.ca
+👋Hi, I'm Mathew Al-Frenn <br>👀 I’m interested in web and app development<br>🚀 I'd like to learn more about cybersecurity and machine learning<br>🌱 I’m currently learning software engineering at the university of Ottawa<br>📫 How to reach me : malfr102@uottawa.ca
 
 
 ## 🌐 Socials:
